@@ -8,14 +8,10 @@ Example account
 Youtube Links
     Pitch Video: https://youtu.be/U_UL0gCQ_ls 
 
-    Project Implementation Video 
-        User Experience Video: https://youtu.be/QxVhIgtB1Fs
-        Code Implementation Video (Particle & Server): https://youtu.be/2eUqXHQMtLU 
-		Backup Link: https://drive.google.com/file/d/1epap2JhbkkyshaXC8gMjmBa8B7vKHj1s/view?usp=sharing 
-
-
-
-
+Project Implementation Video 
+    User Experience Video: https://youtu.be/QxVhIgtB1Fs
+    Code Implementation Video (Particle & Server): https://youtu.be/2eUqXHQMtLU 
+		
 Endpoint Documentation
 
 let userSchema = new db.Schema({
