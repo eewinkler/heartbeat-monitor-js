@@ -1,0 +1,159 @@
+body {
+    padding: 0px;
+}
+
+#hartbeet {
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 20pt;
+    font-weight: bold;
+    color: rgb(178, 38, 43);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg-az-blue {
+   background-color: rgb(246, 235, 202);
+}
+
+.bg-az-red {
+   background-color: rgb(246, 235, 202);
+}
+
+.text-az-blue {
+   color: rgb(13, 36, 75);
+}
+
+.text-az-red {
+   color: rgb(169, 11, 37);
+}
+
+.photo {
+    padding: 20px;
+}
+
+.name {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+
+li {
+   padding: 5px;
+}
+
+#logo {
+    height: 50px;
+    vertical-align: middle;
+}
+
+#name {
+    font-size: 32pt;
+    vertical-align: top;
+}
+
+#tagline {
+   margin-top: 75px;
+}
+
+.contact {
+	margin-top: 20px;
+}
+
+.brand-logo {
+   max-height: 200px;
+}
+
+.nav-wrapper {
+   height: 65px;
+   margin-bottom: 25px;
+}
+
+i.icon-purple {
+    color: #4a148c;
+}
+
+
+.parallax-container {
+  min-height: 250px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+
+/* FOOTER RELATED */
+footer{
+	position: fixed;
+	bottom: 0;
+}
+.footer-copyright{
+  width: 100vw;
+}
+
+.footerCreators {
+  color: rgb(178, 38, 43);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 12px;
+}
+
+.footerECEcopyright {
+  color: rgb(178, 38, 43);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page-footernew{
+  background-color: rgb(246, 235, 202);
+  height: 65px;
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+/* smartphones 320 - 414 */
+@media only screen and (max-width : 420px) { 
+  #index-banner .section {
+    top: 0;
+  }
+  .footerECEcopyright{
+    padding-top: 10px;
+    text-align: center;
+  }
+  .footerCreators{
+    text-align: center;
+  }
+  .collection1{
+    font-size: 20px;
+}
+
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.hide-on-load {
+   display: none;
+}
+
+

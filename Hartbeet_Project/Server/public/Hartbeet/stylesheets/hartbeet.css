@@ -1,0 +1,67 @@
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(246, 235, 202);
+}
+
+#logo {
+    margin: 5px;
+    width: 30px;
+}
+
+#headcolor {
+  color: rgb(246, 235, 202);
+}
+
+.nav-wrapper {
+  background-color: rgb(246, 235, 202) !important;
+}
+
+#name {
+    vertical-align: top;
+    padding-top: 10px;
+    font-size: 20pt;
+    font-weight: bold;
+    color: rgb(178, 38, 43);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#account {
+   padding-top: 5px;
+}
+
+#addDeviceForm, #main, #error {
+   display: none;
+}
+
+.input-field input {
+   color: white;
+}
+
+.select-dropdown {
+  color: white;
+}
+
+.select-wrapper .caret {
+   fill: white;
+} 
+
+.ping {
+  margin-left: 20px;
+}
+
+#email {
+  color: black;
+}
+
+#password {
+  color: black;
+}
+
+#passwordConfirm {
+  color: black;
+}
+
+#fullName {
+  color: black;
+}
